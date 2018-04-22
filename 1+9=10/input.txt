@@ -1,0 +1,55 @@
+comments
+Этот код учит эксперта3.0 сладывать числа от 1 до 10, при этом нет 0 и сумма не превышает 10-ти.
+end_comments
+1 . associated as element with number . ;
+2 . associated as element with number . ;
+3 . associated as element with number . ;
+4 . associated as element with number . ;
+5 . associated as element with number . ;
+6 . associated as element with number . ;
+7 . associated as element with number . ;
+8 . associated as element with number . ;
+9 . associated as element with number . ;
+10 . associated as element with number . ;
+
+plus of 1 . , 1 . . is conversion to 2 . ;
+plus of 2 . , 1 . . is conversion to 3 . ;
+plus of 3 . , 1 . . is conversion to 4 . ;
+plus of 4 . , 1 . . is conversion to 5 . ;
+plus of 5 . , 1 . . is conversion to 6 . ;
+plus of 6 . , 1 . . is conversion to 7 . ;
+plus of 7 . , 1 . . is conversion to 8 . ;
+plus of 8 . , 1 . . is conversion to 9 . ;
+plus of 9 . , 1 . . is conversion to 10 . ;
+
+2 . is conversion to plus of 1 . , 1 . . ;
+3 . is conversion to plus of 2 . , 1 . . ;
+4 . is conversion to plus of 3 . , 1 . . ;
+5 . is conversion to plus of 4 . , 1 . . ;
+6 . is conversion to plus of 5 . , 1 . . ;
+7 . is conversion to plus of 6 . , 1 . . ;
+8 . is conversion to plus of 7 . , 1 . . ;
+9 . is conversion to plus of 8 . , 1 . . ;
+10 . is conversion to plus of 9 . , 1 . . ;
+
+comments
+\a + b = b + a
+end_comments
+
+plus of any association as element with number . ,
+any association as element with number . .
+is conversion to plus of any_ 2 . , any_ 1 . . ;
+
+comments
+\(a + b) + c = (b + c) + a
+end_comments
+
+plus of plus of any association as element with number . , any association as element with number . . , any association as element with number . .
+is conversion to
+plus of plus of any_ 1 by 2 . , any_ 2 . . , any_ 1 by 1 . . ;
+
+Question 1
+conversion to object
+plus of 3 . , 3 . . ;
+
+END_FILE_KOVALSKY

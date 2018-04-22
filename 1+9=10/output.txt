@@ -1,0 +1,7 @@
+comments
+//File created by expert Kovalsky version 3.0//
+end_comments
+
+
+10 . ;
+END_FILE_KOVALSKY
